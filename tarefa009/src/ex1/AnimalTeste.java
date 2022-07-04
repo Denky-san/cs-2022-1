@@ -11,14 +11,14 @@ public class AnimalTeste {
         System.out.println("Animal 2: " + animal2.emitirSom());
         System.out.println("Animal 3: " + animal3.emitirSom());
 
-        System.out.println("\n\nOs Animais após serem examinados:");
+        System.out.println("\nAnimais após serem examinados:");
 
         Veterinario vet = new Veterinario();
         System.out.println("Animal 1: " + vet.examinar(animal1));
         System.out.println("Animal 2: " + vet.examinar(animal2));
         System.out.println("Animal 3: " + vet.examinar(animal3));
 
-        System.out.println("\n\nOs animais do zoologico:");
+        System.out.println("\nAnimais do zoologico:");
         Zoologico zoo = new Zoologico();
 
         zoo.setJaulas(new Jaula(new Cachorro("Toto",1)));
