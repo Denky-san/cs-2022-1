@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cs-2022-1.iml" filepath="$PROJECT_DIR$/.idea/cs-2022-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefa008/tarefa008.iml" filepath="$PROJECT_DIR$/tarefa008/tarefa008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefa009/tarefa009.iml" filepath="$PROJECT_DIR$/tarefa009/tarefa009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefa010/tarefa010.iml" filepath="$PROJECT_DIR$/tarefa010/tarefa010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefa012/tarefa012.iml" filepath="$PROJECT_DIR$/tarefa012/tarefa012.iml" />
+    </modules>
+  </component>
+</project>
